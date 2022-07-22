@@ -1,0 +1,8 @@
+.header__logo {
+  max-width: 270px;
+  padding-top: 34px;
+  padding-bottom: 90px;
+  border: 1px solid green;
+  display: block;
+  margin: 0 auto;
+}
