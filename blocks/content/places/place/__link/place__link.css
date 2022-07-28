@@ -1,0 +1,14 @@
+.place__link {
+  max-width: 350px;
+  height: 48px;
+  border-radius: 5px;
+  background-color: #0278FE;
+  font-size: 18px;
+  line-height: 1.2;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 48px;
+  text-decoration: none;
+}

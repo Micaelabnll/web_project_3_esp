@@ -1,0 +1,6 @@
+.place {
+  max-width: 984px;
+  border: 1px solid blue;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+}
