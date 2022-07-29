@@ -1,7 +1,7 @@
 .photo-grid {
   max-width: 1184px;
-  margin: auto;
   display: grid;
+  justify-items: center;
   gap: 1rem;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
