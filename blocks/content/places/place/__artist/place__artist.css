@@ -1,7 +1,4 @@
 .place__artist {
-  max-width: 58px;
   font-size: 12px;
   line-height: 1.2;
-  border: 1px solid yellow;
-  margin-bottom: 0;
 }

@@ -1,0 +1,10 @@
+.place__button4 {
+    background-color: #0278FE;
+    max-width: 355px;
+    border-radius: 5px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -120px;
+  }
