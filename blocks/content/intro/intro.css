@@ -6,3 +6,12 @@
   padding-left: 24px;
   padding-right: 24px;
 }
+
+@media screen and (max-width: 550px) {
+
+  .intro {
+    max-width: 90%;
+    margin-top: 44px;
+    padding: 0;
+  }
+}

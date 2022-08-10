@@ -2,3 +2,12 @@
   font-size: 12px;
   line-height: 1.2;
 }
+
+@media screen and (max-width: 550px) {
+
+  .place__artist {
+    font-size: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}

@@ -1,4 +1,10 @@
-.photo-grid__gallery-photo {
+.photo-grid__gallery-image {
   width: 100%;
   object-fit: cover;
+}
+
+@media screen and (max-width: 1458px) {
+  .photo-grid__gallery-image {
+    width: 100%;
+  }
 }

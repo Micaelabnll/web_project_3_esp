@@ -3,3 +3,12 @@
   min-height: 740px;
   display: block;
 }
+
+@media screen and (max-width: 550px) {
+
+  .cover__overlay {
+    max-width: 100%;
+    min-height: 254px;
+  }
+}
+

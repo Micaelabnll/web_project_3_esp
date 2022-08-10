@@ -5,3 +5,10 @@
   display: block;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 550px) {
+
+  .header__logo {
+    max-width: 200px;
+  }
+}
